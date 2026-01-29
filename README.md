@@ -6,7 +6,7 @@ Get the perfect playlist name and song recommendations for any moment.
 
 The Vibe-Based Playlist Generator helps solve that annoying moment when you know the vibe you want but can't figure out what to actually listen to. Instead of scrolling endlessly through Spotify or Apple Music, you just tell it your mood, what you're doing, and add the time of day and a genre you're feeling. The app then generates a creative playlist name and gives you 6-10 songs that actually match what you're looking for.
 
-This works well because it gets that music is emotional - you're not just searching for a genre, you're searching for a feeling. My target user is basically anyone who loves music but gets decision fatigue trying to pick the right songs. Think students studying, people at the gym, or just anyone who wants their music to match their energy. The fun playlist names make it shareable too, and you get actual song recommendations you can use right away.
+This works because it understands music is more than just genre and artists - it's about matching or changing how you feel in that moment. My target user is anyone who loves listening music throughout their but gets decision fatigue trying to pick the right songs. Think students studying, people at the gym, or just anyone who wants their music to match their energy. The creative playlist names make it shareable too, and you get actual song recommendations you can use right away. Finally, its easy to find new artists this way - and users might just find their next favorite song!
 
 ## How to Use
 
