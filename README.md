@@ -4,9 +4,9 @@ Get the perfect playlist name and song recommendations for any moment.
 
 ## Product Brief
 
-The Vibe-Based Playlist Generator solves the common problem of not knowing what music to listen to based on your current mood and activity. Instead of endlessly scrolling through Spotify trying to find the right vibe, users simply input how they're feeling, what they're doing, and optional preferences like time of day or genre. The tool uses AI to generate a creative, personality-filled playlist name along with 6-10 perfectly curated song recommendations that match the specified mood.
+The Vibe-Based Playlist Generator helps solve that annoying moment when you know the vibe you want but can't figure out what to actually listen to. Instead of scrolling endlessly through Spotify or Apple Music, you just tell it your mood, what you're doing, and add the time of day and a genre you're feeling. The app then generates a creative playlist name and gives you 6-10 songs that actually match what you're looking for.
 
-This approach is effective because it combines the emotional intelligence of understanding mood with practical music curation. The target user is anyone who loves music but experiences decision fatigue when choosing what to listen to—students studying, people working out, or anyone wanting their music to match their current energy. The creative playlist names make the experience fun and shareable, while the song recommendations provide immediate value.
+This works well because it gets that music is emotional - you're not just searching for a genre, you're searching for a feeling. My target user is basically anyone who loves music but gets decision fatigue trying to pick the right songs. Think students studying, people at the gym, or just anyone who wants their music to match their energy. The fun playlist names make it shareable too, and you get actual song recommendations you can use right away.
 
 ## How to Use
 
@@ -43,7 +43,9 @@ This approach is effective because it combines the emotional intelligence of und
 
 ## Reflection
 
-[Write your reflection here - 100-150 words about what worked well with AI assistance, what was challenging, and what you'd improve in version 2.0]
+Claude was great for assisting me throughout this project. I was able to input all my desired ideas and suggestions, and it gave me downloadable files ready for Github upload. When I was having trouble with my API key, it suggested I go to Vercel and connect my repository through there. I honestly had no Ai troubles, my only difficulty came from the API key. Professor Bierman had to create one for me, and I was then able to see the Vibe-Based Playlist Generator in action. 
+
+To improve this current version, I would likely try to figure out how to connect the generated playlist to peoples Spotify accounts. This would make it much easier for them to copy it over, rather than having to search for the songs on Spotify after the fact. I would likely need a Spotofy-specific API inetegration for this to work, but I think it would streamline the playlist-making process even further. 
 
 ---
 
