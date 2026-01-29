@@ -49,31 +49,6 @@ To improve this current version, I would likely try to figure out how to connect
 
 ---
 
-## Setup Instructions
-
-### For Local Development:
-1. Clone this repository
-2. Get an API key from [Anthropic](https://console.anthropic.com/)
-3. Create a `.env` file in the root directory:
-   ```
-   ANTHROPIC_API_KEY=your-api-key-here
-   ```
-4. Run a local server: `python3 -m http.server 8000`
-5. Open `http://localhost:8000` in your browser
-
-### For Vercel Deployment:
-1. Push this repository to GitHub
-2. Sign up at [Vercel](https://vercel.com) and connect your GitHub
-3. Import your repository
-4. Add environment variable in Vercel dashboard:
-   - Go to Project Settings → Environment Variables
-   - Add: `ANTHROPIC_API_KEY` = `your-api-key-here`
-5. Deploy!
-
-**Important:** Never commit your actual API key to GitHub! Use environment variables.
-
----
-
 **Live Demo:** https://mini-project-one-topaz.vercel.app/
 
 **GitHub Repository:** https://github.com/gianna7803/mini-project-one
