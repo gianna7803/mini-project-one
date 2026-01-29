@@ -47,8 +47,6 @@ Claude was great for assisting me throughout this project. I was able to input a
 
 To improve this current version, I would likely try to figure out how to connect the generated playlist to peoples Spotify accounts. This would make it much easier for them to copy it over, rather than having to search for the songs on Spotify after the fact. I would likely need a Spotofy-specific API inetegration for this to work, but I think it would streamline the playlist-making process even further. 
 
----
-
 **Live Demo:** https://mini-project-one-topaz.vercel.app/
 
 **GitHub Repository:** https://github.com/gianna7803/mini-project-one
