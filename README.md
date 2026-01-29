@@ -70,7 +70,7 @@ To improve this current version, I would likely try to figure out how to connect
    - Add: `ANTHROPIC_API_KEY` = `your-api-key-here`
 5. Deploy!
 
-⚠️ **Important:** Never commit your actual API key to GitHub! Use environment variables.
+**Important:** Never commit your actual API key to GitHub! Use environment variables.
 
 ---
 
