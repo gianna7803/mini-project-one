@@ -1,6 +1,3 @@
-// API key for Anthropic
-const API_KEY = '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';
-
 // Store the last input for regeneration
 let lastInput = null;
 
