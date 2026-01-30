@@ -44,9 +44,9 @@ This works because it understands music is more than just genre and artists - it
 
 ## Reflection
 
-Claude was great for assisting me throughout this project. I was able to input all my desired ideas and suggestions, and it gave me downloadable files ready for Github upload. I edited said code to match the style of what I was looking for (adding buttons on HTML and fixing the design on CSS). When I was having trouble with my API key, it suggested I go to Vercel and connect my repository through there. I honestly had no AI troubles, my only difficulty came from the API key. Professor Bierman had to create one for me, and I was then able to see the Vibe-Based Playlist Generator in action. 
+Claude was great for assisting me throughout this project. I was able to input all my desired ideas and suggestions, and it gave me downloadable files ready for Github upload. I edited said code to match the style of what I was looking for (adding buttons on HTML and fixing the design on CSS). But for languages I am not familiar with (i.e., Javascript), Claude gave me code to paste into GitHub and explained what each line was for. Additionally, when I was having trouble with my API key, it suggested I go to Vercel and connect my repository through there. I honestly had no AI troubles (my prompts are usually really detailed), my only difficulty came from the API key. Professor Bierman had to create one for me, and I was then able to see the Vibe-Based Playlist Generator in action. 
 
-To improve this current version, I would likely try to figure out how to connect the generated playlist to peoples Spotify accounts. This would make it much easier for them to copy it over, rather than having to search for the songs on Spotify after the fact. I would likely need a Spotofy-specific API integration for this to work, but I think it would streamline the playlist-making process even further. 
+To improve this current version, I would likely try to figure out how to connect the generated playlist to people's Spotify accounts. This would make it much easier for them to copy it over, rather than having to search for the songs on Spotify after the fact. I would likely need a Spotify-specific API integration for this to work, but I think it would streamline the playlist-making process even further. 
 
 **Live Demo:** https://mini-project-one-topaz.vercel.app/
 
