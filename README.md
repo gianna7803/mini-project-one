@@ -10,14 +10,15 @@ This works because it understands music is more than just genre and artists - it
 
 ## How to Use
 
-1. **Select your mood** from the dropdown (nostalgic, hype, chill, etc.)
-2. **Choose your activity** (studying, working out, driving, etc.)
-3. **Select time of day** for more specific vibes
-4. **Add genre preferences** in the text field
-5. Click **"Generate Playlist"** and wait for your custom playlist
+1. Select your mood from the dropdown (nostalgic, hype, chill, etc.)
+2. Choose your activity (studying, working out, driving, etc.)
+3. Select time of day for more specific vibes
+4. Add genre preferences in the text field
+5. Click "Generate Playlist" and wait for your custom playlist
 6. Review your playlist name, description, and song recommendations
-7. Click **"Regenerate"** if you want a different result with the same inputs
-8. Click **"Copy Song List"** to copy the playlist to your clipboard for easy adding to Spotify
+7. Click "Regenerate" if you want a different result with the same inputs
+8. Click "Copy Song List" to copy the playlist to your clipboard for easy adding to Spotify
+9. Click "Start Over" if you want to change up your inputs entirely for a brand new playlist
 
 ## Tech Stack
 
